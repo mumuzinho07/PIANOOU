@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: "Oswald", sans-serif;
+}
+
+.video-container {
+    text-align: center
+}
+header{
+    border-bottom: solid 4px rgb(129, 2, 91);
+    padding: 14px;
+    font-size: 26px;
+    color: rgb(129, 2, 91);
+}
+
+h1{
+    font-size: 50px;
+}
+.minha-imagem{
+    width: 550px;
+    height: 350px;
+}
+
+img{
+    padding-top: 150px;
+    padding-left: 350px;
+    height: 270;
+}
